@@ -1,5 +1,4 @@
 <template>
-    <div class="navbar">
      <b-navbar 
     md="auto"
     toggleable="md"
@@ -28,7 +27,7 @@
 
        </b-navbar-nav>
   </b-navbar>
-    </div>
+   
 </template>
 <script>
 

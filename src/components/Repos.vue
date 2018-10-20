@@ -1,6 +1,11 @@
 <template>
     <div class="repos">
-       <h1>Repositories</h1>
+     <b-card title="All Repositories">
+           <hr>
+         <p class="card-text mb-2">
+          </p>
+        
+       </b-card>
     </div>
 </template>
 <script>
